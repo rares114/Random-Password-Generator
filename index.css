@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    min-width: 400px;
+    min-height: 400px;
+    background-image: url(BGPic.png);
+}
+
+button {
+    border-radius: 7px;
+    background-color: #00A1F1;
+    color: white;
+    border: none;
+    width: 120px;
+    height: 35px;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 10px;
+}
+
+.input_div {
+    margin-left: 20;
+    width: 261px;
+    height: 94px;
+}
+
+h1 {
+    color: white;
+    font-size: large;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+p {
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+button:hover {
+    background-color: #006699;
+}
+
+ul {
+    color: white;
+}
